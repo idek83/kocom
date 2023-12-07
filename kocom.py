@@ -4,7 +4,7 @@
 '''
  python kocom script
 
- : forked from script written by vifrost, kyet, 룰루해피, 따분, Susu Daddy, harwin1
+ : forked from script written by idek83, vifrost, kyet, 룰루해피, 따분, Susu Daddy, harwin1
 
  apt-get install mosquitto
  python3 -m pip install pyserial
@@ -23,7 +23,7 @@ import configparser
 
 
 # define -------------------------------
-SW_VERSION = '2023.08.012'
+SW_VERSION = '2023.12.001'
 CONFIG_FILE = 'kocom.conf'
 BUF_SIZE = 100
 
